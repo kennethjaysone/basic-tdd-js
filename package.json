@@ -17,6 +17,6 @@
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
     "@babel/register": "^7.9.0",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }
